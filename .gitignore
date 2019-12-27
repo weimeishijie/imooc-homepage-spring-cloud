@@ -1,0 +1,6 @@
+.idea/
+homepage-eureka/target/
+homepage-zuul/target/
+imooc-homepage-service/homepage-common/target/
+imooc-homepage-service/homepage-course/target/
+imooc-homepage-service/homepage-user/target/
